@@ -2,8 +2,7 @@
 Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam;
 Quốc hội ban hành Luật Các tổ chức tín dụng.
 
-# Chương I
-NHỮNG QUY ĐỊNH CHUNG
+# Chương I: NHỮNG QUY ĐỊNH CHUNG
 
 ## Điều 1. Phạm vi điều chỉnh
 
@@ -259,8 +258,7 @@ Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài phải bảo đ�
 
 5. Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, người quản lý, người điều hành, nhân viên của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài gắn việc bán sản phẩm bảo hiểm không bắt buộc với việc cung ứng sản phẩm, dịch vụ ngân hàng dưới mọi hình thức.
 
-# Chương II 
-NGÂN HÀNG CHÍNH SÁCH
+# Chương II: NGÂN HÀNG CHÍNH SÁCH
 
 ## Điều 16. Thành lập, hoạt động và quản lý nhà nước đối với ngân hàng chính sách
 
@@ -338,8 +336,7 @@ Ngân hàng chính sách được áp dụng quy định của Luật này để
 
 Cơ chế tài chính, tiền lương, tổ chức lại, giải thể, kiểm tra, thanh tra, giám sát ngân hàng chính sách và các nội dung khác có liên quan đến ngân hàng chính sách thực hiện theo quy định tại Chương này và quy định của Chính phủ.
 
-# Chương III
-GIẤY PHÉP
+# Chương III: GIẤY PHÉP
 
 ## Điều 27. Thẩm quyền cấp, sửa đổi, bổ sung và thu hồi Giấy phép
 
@@ -521,11 +518,9 @@ a) Sửa đổi, bổ sung Điều lệ của tổ chức tín dụng phù hợp
 
 b) Công bố nội dung thay đổi quy định tại các điểm a, b, c và d khoản 1 Điều này trong thời hạn 07 ngày làm việc kể từ ngày được Ngân hàng Nhà nước chấp thuận trên 01 phương tiện truyền thông của Ngân hàng Nhà nước và 01 tờ báo in trong 03 số liên tiếp hoặc trên 01 báo điện tử của Việt Nam.
 
-# Chương IV 
-TỔ CHỨC, QUẢN TRỊ, ĐIỀU HÀNH CỦA TỔ CHỨC TÍN DỤNG, CHI NHÁNH NGÂN HÀNG NƯỚC NGOÀI
+# Chương IV: TỔ CHỨC, QUẢN TRỊ, ĐIỀU HÀNH CỦA TỔ CHỨC TÍN DỤNG, CHI NHÁNH NGÂN HÀNG NƯỚC NGOÀI
 
-### Mục 1 
-QUY ĐỊNH CHUNG
+### Mục 1: QUY ĐỊNH CHUNG
 
 ## Điều 38. Chi nhánh, văn phòng đại diện, đơn vị sự nghiệp, hiện diện thương mại của tổ chức tín dụng
 
@@ -1843,11 +1838,9 @@ CHI NHÁNH NGÂN HÀNG NƯỚC NGOÀI
 
 Hồ sơ, thủ tục chấp thuận người dự kiến được bổ nhiệm làm Tổng giám đốc (Giám đốc) chi nhánh ngân hàng nước ngoài, thông báo người được bổ nhiệm thực hiện theo quy định tại khoản 2 và khoản 3 Điều 44 của Luật này.
 
-# Chương V 
-HOẠT ĐỘNG CỦA TỔ CHỨC TÍN DỤNG, CHI NHÁNH NGÂN HÀNG NƯỚC NGOÀI
+# Chương V: HOẠT ĐỘNG CỦA TỔ CHỨC TÍN DỤNG, CHI NHÁNH NGÂN HÀNG NƯỚC NGOÀI
 
-### Mục 1
-QUY ĐỊNH CHUNG VỀ HOẠT ĐỘNG CỦA TỔ CHỨC TÍN DỤNG
+### Mục 1: QUY ĐỊNH CHUNG VỀ HOẠT ĐỘNG CỦA TỔ CHỨC TÍN DỤNG
 
 ## Điều 99. Nội dung hoạt động được phép của tổ chức tín dụng
 
@@ -2361,8 +2354,7 @@ b) Hoạt động mà ngân hàng mẹ của chi nhánh ngân hàng nước ngo�
 
 2. Chi nhánh ngân hàng nước ngoài được cung ứng một số dịch vụ ngoại hối trên thị trường quốc tế cho khách hàng tại Việt Nam theo quy định của pháp luật về ngoại hối.
 
-# Chương VI 
-VĂN PHÒNG ĐẠI DIỆN NƯỚC NGOÀI
+# Chương VI: VĂN PHÒNG ĐẠI DIỆN NƯỚC NGOÀI
 
 ## Điều 132. Thành lập văn phòng đại diện nước ngoài
 
@@ -2382,8 +2374,7 @@ Văn phòng đại diện nước ngoài được thực hiện các hoạt đ�
 
 5. Hoạt động khác theo quy định của pháp luật Việt Nam.
 
-# Chương VII 
-CÁC HẠN CHẾ ĐỂ BẢO ĐẢM AN TOÀN TRONG HOẠT ĐỘNG CỦA TỔ CHỨC TÍN DỤNG, CHI NHÁNH NGÂN HÀNG NƯỚC NGOÀI
+# Chương VII: CÁC HẠN CHẾ ĐỂ BẢO ĐẢM AN TOÀN TRONG HOẠT ĐỘNG CỦA TỔ CHỨC TÍN DỤNG, CHI NHÁNH NGÂN HÀNG NƯỚC NGOÀI
 
 ## Điều 134. Những trường hợp không được cấp tín dụng
 
@@ -2563,8 +2554,7 @@ e) Biện pháp truyền thông, công nghệ thông tin để khắc phục kh�
 
 7. Phương án khắc phục quy định tại Điều này phải được xây dựng, thông qua trước ngày 01 tháng 7 năm 2025 hoặc trong thời hạn 01 năm kể từ ngày được cấp Giấy phép thành lập và hoạt động của ngân hàng thương mại, Giấy phép thành lập chi nhánh ngân hàng nước ngoài.
 
-# Chương VIII 
-TÀI CHÍNH, HẠCH TOÁN, BÁO CÁO
+# Chương VIII: TÀI CHÍNH, HẠCH TOÁN, BÁO CÁO
 
 ## Điều 144. Vốn và sử dụng vốn của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài
 
@@ -2744,8 +2734,7 @@ Trong thời hạn 120 ngày kể từ ngày kết thúc năm tài chính, tổ 
 
 4. Việc chuyển tiền và tài sản khác ra nước ngoài quy định tại các khoản 1, 2 và 3 Điều này được thực hiện theo quy định của pháp luật Việt Nam.
 
-# Chương IX 
-CAN THIỆP SỚM TỔ CHỨC TÍN DỤNG, CHI NHÁNH NGÂN HÀNG NƯỚC NGOÀI
+# Chương IX: CAN THIỆP SỚM TỔ CHỨC TÍN DỤNG, CHI NHÁNH NGÂN HÀNG NƯỚC NGOÀI
 
 ## Điều 156. Thực hiện can thiệp sớm tổ chức tín dụng, chi nhánh ngân hàng nước ngoài
 
@@ -2863,8 +2852,7 @@ a) Ngân hàng Nhà nước có văn bản chấm dứt việc thực hiện vă
 
 b) Ngân hàng Nhà nước có văn bản chấp thuận giải thể, chấm dứt hoạt động chi nhánh ngân hàng nước ngoài theo quy định của pháp luật.
 
-# Chương X 
-KIỂM SOÁT ĐẶC BIỆT TỔ CHỨC TÍN DỤNG
+# Chương X: KIỂM SOÁT ĐẶC BIỆT TỔ CHỨC TÍN DỤNG
 
 ### Mục 1 
 QUY ĐỊNH CHUNG
@@ -3453,8 +3441,7 @@ Tổ chức bảo hiểm tiền gửi xây dựng phương án tăng phí bảo 
 
 5. Trình tự, thủ tục phá sản tổ chức tín dụng thực hiện theo quy định tại Điều 203 của Luật này và pháp luật về phá sản.
 
-# Chương XI 
-XỬ LÝ TRƯỜNG HỢP TỔ CHỨC TÍN DỤNG BỊ RÚT TIỀN HÀNG LOẠT; VAY, CHO VAY ĐẶC BIỆT
+# Chương XI: XỬ LÝ TRƯỜNG HỢP TỔ CHỨC TÍN DỤNG BỊ RÚT TIỀN HÀNG LOẠT; VAY, CHO VAY ĐẶC BIỆT
 
 ## Điều 191. Xử lý trường hợp tổ chức tín dụng bị rút tiền hàng loạt
 
@@ -3504,8 +3491,7 @@ b) Để thực hiện phương án phục hồi, phương án chuyển giao b�
 
 3. Thống đốc Ngân hàng Nhà nước quy định chi tiết việc cho vay đặc biệt.
 
-# Chương XII 
-XỬ LÝ NỢ XẤU, TÀI SẢN BẢO ĐẢM
+# Chương XII: XỬ LÝ NỢ XẤU, TÀI SẢN BẢO ĐẢM
 
 ## Điều 195. Nợ xấu
 
@@ -3563,9 +3549,7 @@ e) Nghĩa vụ khác không có bảo đảm theo quy định của pháp luật
 
 3. Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, công ty quản lý nợ và khai thác tài sản của tổ chức tín dụng, công ty quản lý tài sản của các tổ chức tín dụng Việt Nam thành lập và hoạt động theo quy định của pháp luật về các tổ chức tín dụng được quyền chuyển nhượng toàn bộ hoặc một phần dự án bất động sản là tài sản bảo đảm để thu hồi nợ theo quy định về chuyển nhượng toàn bộ hoặc một phần dự án bất động sản của Luật Kinh doanh bất động sản và quy định khác của pháp luật có liên quan nhưng không phải áp dụng quy định về điều kiện chủ thể kinh doanh bất động sản đối với bên chuyển nhượng dự án bất động sản của Luật Kinh doanh bất động sản.
 
-# Chương XIII 
-TỔ CHỨC LẠI, GIẢI THỂ, PHÁ SẢN, 
-THANH LÝ, PHONG TỎA VỐN, TÀI SẢN
+# Chương XIII: TỔ CHỨC LẠI, GIẢI THỂ, PHÁ SẢN, THANH LÝ, PHONG TỎA VỐN, TÀI SẢN
 
 ## Điều 201. Tổ chức lại tổ chức tín dụng
 
@@ -3605,8 +3589,7 @@ THANH LÝ, PHONG TỎA VỐN, TÀI SẢN
 
 2. Thống đốc Ngân hàng Nhà nước quy định trường hợp phong tỏa, chấm dứt phong tỏa vốn và tài sản của chi nhánh ngân hàng nước ngoài.
 
-# Chương XIV 
-QUẢN LÝ NHÀ NƯỚC
+# Chương XIV: QUẢN LÝ NHÀ NƯỚC
 
 ## Điều 206. Trách nhiệm của cơ quan quản lý nhà nước
 
@@ -3652,8 +3635,7 @@ c) Chủ trì, phối hợp, chia sẻ thông tin với Ngân hàng Nhà nước
 
 7. Quyền, nghĩa vụ khác theo quy định của pháp luật.
 
-# Chương XV 
-ĐIỀU KHOẢN THI HÀNH
+# Chương XV: ĐIỀU KHOẢN THI HÀNH
 
 ## Điều 209. Hiệu lực thi hành
 

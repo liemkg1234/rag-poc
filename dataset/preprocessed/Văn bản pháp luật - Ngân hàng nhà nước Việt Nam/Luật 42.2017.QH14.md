@@ -213,13 +213,12 @@ Việc xử lý chuyển tiếp sau khi Nghị quyết này hết hiệu lực t
 Nghị quyết này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 3 thông qua ngày 21 tháng 6 năm 2017.
 
 CHỦ TỊCH QUỐC HỘI
-
 (đã ký)
-
 Nguyễn Thị Kim Ngân
+
 ---
 
-#PHỤ LỤC: Về xác định nợ xấu
+# PHỤ LỤC: Về xác định nợ xấu
 
 (Ban hành kèm theo Nghị quyết số 42/2017/QH14 ngày 21 tháng 6 năm 2017 của Quốc hội 
 Về thí điểm xử lý nợ xấu của các tổ chức tín dụng)
