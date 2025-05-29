@@ -18,3 +18,4 @@ https://huggingface.co/DevQuasar/Salesforce.Llama-xLAM-2-8b-fc-r-GGUF
 
 
 ### Embedding
+https://github.com/cocoindex-io/cocoindex
