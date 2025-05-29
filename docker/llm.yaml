@@ -1,0 +1,16 @@
+logLevel: debug
+startPort: 8001
+
+models:
+  "multilingual-e5-large-instruct":
+    cmd: |
+      /app/llama-server --port ${PORT}
+      --model /models/multilingual-e5-large-instruct-q4_k_m.gguf
+      --ctx-size 4096 \
+      --parallel 4 \
+      --cont-batching \
+      --batch-size 4096 \
+      --ubatch-size 1024 \
+      --verbose \
+      --embeddings
+    checkEndpoint: /health
